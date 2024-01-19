@@ -40,6 +40,10 @@ export default {
       options: [
         { value: 'moravia-costa-rica', text: 'moravia-costa-rica' },
         { value: 'cartago-costa-rica', text: 'cartago-costa-rica' },
+        { value: 'desamparados-costa-rica', text: 'desamparados-costa-rica' },
+        { value: 'heredia-costa-rica', text: 'heredia-costa-rica' },
+        { value: 'lindora-costa-rica', text: 'lindora-costa-rica' },
+        { value: 'tres-rios-costa-rica', text: 'tres-rios-costa-rica' },
         // ... otras opciones
       ],
       isLoading:false,
